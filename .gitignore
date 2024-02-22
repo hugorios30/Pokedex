@@ -1,3 +1,6 @@
 /.vscode
 /node_modules
 /package-lock.json
+/client/pokedex/node_modules
+/client/pokedex/.gitignore
+/client/pokedex/package-lock.json
